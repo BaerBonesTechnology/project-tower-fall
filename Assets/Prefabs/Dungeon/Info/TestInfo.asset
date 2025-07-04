@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ecfaebf5f61458889f771b68a2ecfc6, type: 3}
+  m_Name: TestInfo
+  m_EditorClassIdentifier: 
+  seed: 6584
+  dungeonClass: 8
+  totalFloors: 29
+  startingRoomOptions:
+  - {fileID: 936290662343688656, guid: 4912cd8e9a89de941bb38a04e9a900a5, type: 3}
+  rooms:
+  - {fileID: 5852633282178612288, guid: dadbbc0bd92f43443a839c9145678365, type: 3}
+  - {fileID: 5760327121027337614, guid: 6337e6df94b429d48b83221ecb0b50db, type: 3}
+  - {fileID: 5760327121027337614, guid: ef807fd0d8bdf8f4f82403273346b54b, type: 3}
+  bossRoomOptions:
+  - {fileID: 6108836938060946903, guid: 51a442ee8be072143878debca94cad53, type: 3}
+  endCapRooms:
+  - {fileID: 181672471193175940, guid: 33e0d0643d36d1c439d82744038a1fa5, type: 3}
