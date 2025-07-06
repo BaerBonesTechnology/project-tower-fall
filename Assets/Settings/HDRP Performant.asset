@@ -163,7 +163,7 @@ MonoBehaviour:
       lutFormat: 48
       bufferFormat: 74
     dynamicResolutionSettings:
-      enabled: 0
+      enabled: 1
       useMipBias: 0
       advancedUpscalersByPriority: 
       DLSSPerfQualitySetting: 0
@@ -313,8 +313,8 @@ MonoBehaviour:
       - 0.5
     gpuResidentDrawerSettings:
       mode: 0
-      smallMeshScreenPercentage: 0
-      enableOcclusionCullingInCameras: 0
+      smallMeshScreenPercentage: 20
+      enableOcclusionCullingInCameras: 1
       useDepthPrepassForOccluders: 1
     m_ObsoleteLightLayerName0: Light LayerDefault
     m_ObsoleteLightLayerName1: InteriorOnly

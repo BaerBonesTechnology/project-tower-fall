@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using Baerhous.Games.Towerfall.Enums;
 using Baerhous.Games.Towerfall.Exceptions;
-using Unity.Netcode;
 using UnityEngine;
 using Random = UnityEngine.Random;
 
@@ -11,7 +10,7 @@ namespace Baerhous.Games.Towerfall.Dungeons
      /// <summary>
     /// Manages the world's available dungeons by creating random generated `DungeonInfo` instances
     /// </summary>
-    public class DungeonManager : NetworkBehaviour
+    public class DungeonManager : MonoBehaviour
     {
         public List<DungeonInfo> availableDungeons;
         public GameObject[] TestRooms;
