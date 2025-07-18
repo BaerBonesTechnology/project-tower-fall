@@ -75,3 +75,4 @@ crashlytics-build.properties
 /.plastic
 .plastic/plastic.changes
 /.idea
+/.plastic

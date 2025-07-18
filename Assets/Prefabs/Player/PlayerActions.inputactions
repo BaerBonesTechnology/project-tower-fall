@@ -1,0 +1,118 @@
+{
+    "name": "PlayerActions",
+    "maps": [
+        {
+            "name": "MainMenuState",
+            "id": "06caac14-54f3-43d3-a333-a6e195923819",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "674ec47a-168c-4185-bcac-c8a7755c1cad",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "cb94b3f9-04ad-4f80-b966-0da0b6c0f33a",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "BaseState",
+            "id": "e9a18cdd-85ed-4d2b-8721-a8cf9db47b25",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "2c9026d5-ff99-4fa1-8468-119164ac3310",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "865c2e24-b40b-4c8e-8d04-726e3d64de3e",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "PrepSpellState",
+            "id": "9996d515-0f17-46ad-b4c6-a4de10d8620e",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "ce2bbfa4-5247-45c7-b63e-41b32397fcba",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "acc2efaa-0d11-4ee0-a9cb-827d080adb5d",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "PauseState",
+            "id": "c342f636-92ac-43e8-9b12-2429b1d70d84",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "472ab1ef-80d1-47cb-ae9e-9781c3cb55fc",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "18673e22-9f1c-4c62-84e1-39c34aa90d15",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
